@@ -12,7 +12,8 @@
                 <cmd>Find an internship that meets the requirements</cmd>
             </step>
             <step>
-                <cmd>Fill out the "" form</cmd>
+                <cmd>Fill out the <xref href="../../Desktop/request-to-intern-english.pdf"
+                        format="pdf">Request to Intern</xref> form.</cmd>
             </step>
             <step>
                 <cmd>Send form to </cmd>
