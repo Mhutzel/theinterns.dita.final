@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-resources">
+    <title>Internship Resources</title>
+    <shortdesc>Internships are one of many ways to get experience during college, and there are many
+        locations to find internships. While some outlets can be found through Virgina Tech, there
+        are also many other locations that offer internship opportunites. There are many types of
+        intership experiences, including field study, part-time, volunteering, shadowing and much
+        more.</shortdesc>
+    <taskbody>
+        <context>This page provides some of the best outlets to find internships, whether it be
+            through Virginia Tech, or an outside source.<p><b>Through Virginia
+            Tech</b></p></context>
+        <steps>
+            <step>
+                <cmd><b>Hokies4Hire:</b> (<xref href="https://www.myinterfase.com/vt/Account/LogOn"
+                        format="html" scope="external">)</xref>This link takes you to the log in
+                    page for Hokies4Hire, once logged in you can navigate job opportunities, career
+                    events, modify your profile and much more.</cmd>
+            </step>
+            <step>
+                <cmd><b>Career Fairs:</b>(<xref href="http://career.vt.edu/events/Career-fairs.html"
+                        format="html" scope="external">)</xref>Here is a link to the Virgina Tech
+                    career fair/job fair page, here you can find information on department specific
+                    career fairs, including dates, locations and more. </cmd>
+            </step>
+            <step>
+                <cmd><b>Career Shift:</b>(<xref href="http://www.careershift.com/?sc=VT"
+                        format="html" scope="external">)</xref>Career shift is a free outlet for
+                    Virginia Tech students to marekt themselves to millions of jobs. This site
+                    provides in-depth acess to company information as well as unlimited resume and
+                    cover letter templates to work with.</cmd>
+            </step>
+            <step>
+                <cmd><b>GoinGlobal:</b>(<xref href="https://db.career.vt.edu/scripts/GoingGlobal/"
+                        format="html" scope="external">)</xref>This Link will take you to the
+                    Virginia Tech login page for GoinGlobal, input your VT PID and password to gain
+                    access to career guides, jobs, interships and more.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
