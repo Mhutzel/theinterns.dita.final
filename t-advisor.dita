@@ -6,9 +6,8 @@
         guide the way. Your advisor can also help you choose internships that best fit your needs.
             </shortdesc>
     <taskbody>
-        <context>
-            <p><image href="rob.png" width="300" height="400" id="image_kd3_c5f_qz"/></p>
-        </context>
+        <context><p><image href="rob.png" width="300" height="400" id="image_kd3_c5f_qz"/></p>
+            <image href="dr.evia.png" width="300" height="400" id="image_gtf_dvf_qz"/></context>
         <steps>
             <step>
                 <cmd></cmd>
