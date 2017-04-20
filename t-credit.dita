@@ -5,11 +5,20 @@
     <shortdesc>Apply for an internship to receive course credit</shortdesc>
     <taskbody>
         <context>
-            <p>Apply for an internship to receive course credit</p>
+            <p>Here are the steps you must complete to receive course credit for your internship</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Find an internship that meets the requirements</cmd>
+            </step>
+            <step>
+                <cmd>Fill out the "" form</cmd>
+            </step>
+            <step>
+                <cmd>Send form to </cmd>
+            </step>
+            <step>
+                <cmd/>
             </step>
         </steps>
     </taskbody>
