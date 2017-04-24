@@ -9,7 +9,33 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Send your resume, cover letter, and any other necessary materials to the
+                    employer.</cmd>
+                <info>
+                    <note>Some employers may ask for writing samples.</note>
+                    <note>Check out the Career PLanning Guide for resume and cover letter tips</note>   
+                </info>
+            </step>
+            <step>
+                <cmd>Schedule an interview </cmd>
+                <info>
+                    <note>Tips on preparing for interviews can be found at the Career Services site.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Prepare for the interview </cmd>
+            </step>
+            <step>
+                <cmd>Write the employer a thank you letter for the interview.</cmd>
+            </step>
+            <step>
+                <cmd>After a few weeks, write the employer a follow up letter.</cmd>
+            </step>
+            <step>
+                <cmd>If offered, accept or decline the offer.</cmd>
+                <info>
+                    <note>If you would like to take the internship for credit, speak with your advisor. </note>
+                </info>
             </step>
         </steps>
     </taskbody>

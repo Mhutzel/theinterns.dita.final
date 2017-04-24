@@ -2,14 +2,24 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-process">
     <title>How to Begin</title>
-    <shortdesc></shortdesc>
+    <shortdesc>The first step to getting an internship is beginning the process. This page will show
+        you exactly how to do so. </shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Email your advisor and schedule a meeting. </cmd>
+            </step>
+            <step>
+                <cmd>Find an internship that meets your needs. </cmd>
+            </step>
+            <step>
+                <cmd>Apply to all the internships that you are interested in.</cmd>
+            </step>
+            <step>
+                <cmd/>
             </step>
         </steps>
     </taskbody>

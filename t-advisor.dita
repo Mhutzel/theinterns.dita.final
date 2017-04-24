@@ -10,7 +10,10 @@
             <image href="dr.evia.png" width="300" height="400" id="image_gtf_dvf_qz"/></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Send an email to Carlos Evia the internship coordinator, if you are interested. The address is cevia@vt.edu</cmd>
+            </step>
+            <step>
+                <cmd> </cmd>
             </step>
         </steps>
     </taskbody>
