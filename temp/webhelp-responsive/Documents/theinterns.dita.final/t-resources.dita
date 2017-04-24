@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/Elizabeth/Documents/theinterns.dita.final/temp/webhelp-responsive/Documents/theinterns.dita.final?><?workdir-uri file:/Users/Elizabeth/Documents/theinterns.dita.final/temp/webhelp-responsive/Documents/theinterns.dita.final/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t-resources" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="task:1;3:24">
+    <title class="- topic/title " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="title:1;4:12">Internship Resources</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="shortdesc:1;5:16">Internships are one of many ways to get experience during college, and there are many
+        locations to find internships. While some outlets can be found through Virgina Tech, there
+        are also many other locations that offer internship opportunites. There are many types of
+        intership experiences, including field study, part-time, volunteering, shadowing and much
+        more.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="taskbody:1;10:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="context:1;11:18">This page provides some of the best outlets to find internships, whether it be
+            through Virginia Tech, or an outside source.<p class="- topic/p " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="p:1;12:60"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="b:1;12:63">Through Virginia
+            Tech</b></p></context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="steps:1;14:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="step:1;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="cmd:1;16:22"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="b:2;16:25">Hokies4Hire:</b> (<xref href="https://www.myinterfase.com/vt/Account/LogOn" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="xref:1;17:56">)</xref>This link takes you to the log in
+                    page for Hokies4Hire, once logged in you can navigate job opportunities, career
+                    events, modify your profile and much more.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="step:2;21:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="cmd:2;22:22"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="b:3;22:25">Career Fairs:</b>(<xref href="http://career.vt.edu/events/Career-fairs.html" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="xref:2;23:56">)</xref>Here is a link to the Virgina Tech
+                    career fair/job fair page, here you can find information on department specific
+                    career fairs, including dates, locations and more. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="step:3;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="cmd:3;28:22"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="b:4;28:25">Career Shift:</b>(<xref href="http://www.careershift.com/?sc=VT" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="xref:3;29:56">)</xref>Career shift is a free outlet for
+                    Virginia Tech students to marekt themselves to millions of jobs. This site
+                    provides in-depth acess to company information as well as unlimited resume and
+                    cover letter templates to work with.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="step:4;34:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="cmd:4;35:22"><b class="+ topic/ph hi-d/b " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="b:5;35:25">GoinGlobal:</b>(<xref href="https://db.career.vt.edu/scripts/GoingGlobal/" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/Elizabeth/Documents/theinterns.dita.final/t-resources.dita" xtrc="xref:4;36:56">)</xref>This Link will take you to the
+                    Virginia Tech login page for GoinGlobal, input your VT PID and password to gain
+                    access to career guides, jobs, interships and more.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
