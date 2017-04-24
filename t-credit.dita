@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_fnm_mqf_qz">
-    <title>How to apply for an internship for course credit</title>
-    <shortdesc>Apply for an internship to receive course credit</shortdesc>
+    <title>How to apply for an internship for college credit</title>
+    <shortdesc>Apply for an internship to receive college credit</shortdesc>
     <taskbody>
+<prereq>
+    <ul>
+        <li>The internship should involve significant time writing in a professional
+            setting.</li>
+        <li>You should be supervised by someone on-site who can teach you relevant professional
+            skills and is willing to provide a progress report and final evaluation.</li>
+    </ul>
+</prereq>
         <context>
-            <p>Here are the steps you must complete to receive course credit for your internship</p>
+            <p>To receive college credit for an internship, you will need to complete the following
+                steps:</p>
         </context>
         <steps>
             <step>
-                <cmd>Find an internship that meets the requirements</cmd>
+                <cmd>Find an internship that meets the aforementioned requirements.</cmd>
             </step>
             <step>
-                <cmd>Fill out the <xref href="../../Desktop/request-to-intern-english.pdf"
-                        format="pdf">Request to Intern</xref> form.</cmd>
+                <cmd>Submit the completed Request form to Dr. Evia, the internship coordinator.</cmd>
             </step>
             <step>
-                <cmd>Send form to </cmd>
+                <cmd>Submit the Student-Employer Agreement form by the first day of Summer Session I.</cmd>
             </step>
-            <step>
-                <cmd/>
-            </step>
+
         </steps>
     </taskbody>
 </task>
