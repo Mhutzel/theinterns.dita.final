@@ -28,7 +28,7 @@
                 <cmd><b>Career Shift:</b>(<xref href="http://www.careershift.com/?sc=VT"
                         format="html" scope="external">)</xref>Career shift is a free outlet for
                     Virginia Tech students to marekt themselves to millions of jobs. This site
-                    provides in-depth acess to company information as well as unlimited resume and
+                    provides in-depth acess to company information as well as millions of resume and
                     cover letter templates to work with.</cmd>
             </step>
             <step>
@@ -37,6 +37,47 @@
                     Virginia Tech login page for GoinGlobal, input your VT PID and password to gain
                     access to career guides, jobs, interships and more.</cmd>
             </step>
+            <step>
+                <cmd><b>Career Spots Video:</b>(<xref
+                        href="https://www.careerspots.com/newplayer/default.aspx?key=5BB4o706AL5UzHU0fpObpg2&amp;src=VLI"
+                        format="aspx" scope="external">)</xref>Scroll through mulptiple help videos
+                    that cover topics from building a resume to proper interview dress atire.</cmd>
+            </step>
+            <step>
+                <cmd><b>Candid Career:</b>(<xref
+                        href="https://www.candidcareer.com/channels.php?shared=VATech&amp;UID=1342"
+                        format="php" scope="external">)</xref>Candid Career offers hundreds of
+                    interviews from professionals in their respective fields.</cmd>
+            </step>
         </steps>
+      <context>Internship opportunities can be found in many different locations, not just through Virginia Tech. Here is a list of some of the most popular internship outlets.<p><b>Outside Sources</b></p></context>
+      <steps>
+          <step>
+                <cmd><b>Indeed.com: </b>(<xref href="https://www.indeed.com" format="html"
+                        scope="external">)</xref>Indeed is one of the most popular online job
+                    listing sites. It is home to millions of Internships, full-time, and part-times
+                    jobs as well as much more. Through this link, put in the position you are
+                    looking for and the area in which you want to work, and begin searching.</cmd>
+            </step>
+            <step>
+                <cmd><b>Internships.com:</b>(<xref href="http://www.internships.com/student"
+                        format="html" scope="external">)</xref>Another popular site for students to
+                    find interhips is no other place than Internships.com, Make sure to create a
+                    student account to get the most out of this site.</cmd>
+            </step>
+            <step>
+                <cmd><b>Simplyhired.com:</b>(<xref href="http://www.simplyhired.com" format="html"
+                        scope="external">)</xref>Everything you need to know about simplyhired.com
+                    is in the name, This site offers millions of job listings for a variety of
+                    different fields.</cmd>
+            </step>
+      </steps> 
+      <context>These are some of the most populare sites for students to find internships, but there
+            are hundreds of locations to find more.</context>
     </taskbody>
 </task>
+
+
+
+    
+  
