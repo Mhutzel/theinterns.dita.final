@@ -13,7 +13,13 @@
                 <cmd>Send an email to Carlos Evia the internship coordinator, if you are interested. The address is cevia@vt.edu</cmd>
             </step>
             <step>
-                <cmd> </cmd>
+                <cmd> Schedule a meeting with Dr. Evia.</cmd>
+            </step>
+            <step>
+                <cmd> Bring with you and questions you have about internships</cmd>
+                <info>
+                    <note> Have some internship requirements in mind.</note>
+                </info>
             </step>
         </steps>
     </taskbody>

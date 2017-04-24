@@ -9,7 +9,16 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Schedule an appointment, or walk-in. </cmd>
+                <info>
+                    <note> Career services offers resume reviews, cover letter reviews, resources, and search tips.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Meet with a Career Services employee.</cmd>
+                <info>
+                    <note> Don't forget to bring questions. </note>
+                </info>
             </step>
         </steps>
     </taskbody>
