@@ -1,5 +1,5 @@
 # Welcome to the World of Internships at Virginia Tech  
-<<<<<<< HEAD
+
 
 
 
@@ -73,4 +73,4 @@ _Off-campus:_
 ##Availability
 
 Available internships vary semester to semester. Contact [Dr. Carlos Evia] (cevia@vt.edu) to inquire about what is currently being offered.
->>>>>>> origin/master
+
