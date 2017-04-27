@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t-credit">
+<task id="task_fnm_mqf_qz">
     <title>How to Apply for an Internship for College Credit</title>
-    <shortdesc>Apply for an internship to receive college credit.</shortdesc>
+    <shortdesc>Apply for an internship to receive college credit</shortdesc>
     <taskbody>
 <prereq>
     <ul>
@@ -30,7 +30,25 @@
                         format="pdf">Internship Agreement Form</xref>, signed by both the student
                     and employer, by the first day of Summer Session I.</cmd>
             </step>
-
+            <step>
+                <cmd>Six weeks into the internship, the student must submit the <xref
+                        href="student-progress-report-english%20(6).pdf" format="pdf">Student
+                        Progress Report Form</xref> and the internship supervisor must submit the
+                        <xref href="employer-progress-report-english%20(1).pdf" format="pdf"
+                        >Supervisor Progress Report Form</xref>. </cmd>
+                <info>
+                    <note type="remember">It is the student's responsibility to inform the
+                        supervisor of upcoming deadlines.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>At the end of the internship, the student must submit the <xref
+                        href="student-final-report-english%20(3).pdf" format="pdf">Student Final
+                        Report Form</xref> and the internship supervisor must submit the <xref
+                        href="employer-final-report-english%20(1).pdf" format="pdf">Supervisor Final
+                        Report Form</xref>.</cmd>
+            </step>
+            
         </steps>
     </taskbody>
 </task>
