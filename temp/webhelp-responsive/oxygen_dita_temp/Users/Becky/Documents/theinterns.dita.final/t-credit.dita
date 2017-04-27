@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/Becky/Documents/theinterns.dita.final/temp/webhelp-responsive/oxygen_dita_temp/Users/Becky/Documents/theinterns.dita.final?><?workdir-uri file:/Users/Becky/Documents/theinterns.dita.final/temp/webhelp-responsive/oxygen_dita_temp/Users/Becky/Documents/theinterns.dita.final/?><?path2project?><?path2project-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="task_fnm_mqf_qz" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="task:1;3:28">
+    <title class="- topic/title " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="title:1;4:12">How to Apply for an Internship for College Credit</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="shortdesc:1;5:16">Apply for an internship to receive college credit</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="taskbody:1;6:15">
+<prereq class="- topic/section task/prereq " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="prereq:1;7:9">
+    <ul class="- topic/ul " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="ul:1;8:9">
+        <li class="- topic/li " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="li:1;9:13">The internship should involve significant time writing in a professional
+            setting.</li>
+        <li class="- topic/li " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="li:2;11:13">You should be supervised by someone on-site who can teach you relevant professional
+            skills and is willing to provide a progress report and final evaluation.</li>
+    </ul>
+</prereq>
+        <context class="- topic/section task/context " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="context:1;15:18">
+            <p class="- topic/p " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="p:1;16:16">To receive college credit for an internship, you will need to complete the following
+                steps:</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="steps:1;19:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="step:1;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="cmd:1;21:22">Find an internship that meets the aforementioned requirements.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="step:2;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="cmd:2;24:22">Submit the completed <xref href="request-to-intern-english.pdf" format="pdf" class="- topic/xref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="xref:1;25:26">Request to Intern Form</xref> to Dr. Evia, the internship
+                    coordinator.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="step:3;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="cmd:3;29:22">Submit the <xref href="employer-internship-agreement-english%20(2).pdf" format="pdf" class="- topic/xref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="xref:2;30:38">Internship Agreement Form</xref>, signed by both the student
+                    and employer, by the first day of Summer Session I.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="step:4;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="cmd:4;34:22">Six weeks into the internship, the student must submit the <xref href="student-progress-report-english%20(6).pdf" format="pdf" class="- topic/xref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="xref:3;35:87">Student
+                        Progress Report Form</xref> and the internship supervisor must submit the
+                        <xref href="employer-progress-report-english%20(1).pdf" format="pdf" class="- topic/xref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="xref:4;38:26">Supervisor Progress Report Form</xref>. </cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="info:1;39:23">
+                    <note type="remember" class="- topic/note " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="note:1;40:43">It is the student's responsibility to inform the
+                        supervisor of upcoming deadlines.</note>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="step:5;44:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="cmd:5;45:22">At the end of the internship, the student must submit the <xref href="student-final-report-english%20(3).pdf" format="pdf" class="- topic/xref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="xref:5;46:84">Student Final
+                        Report Form</xref> and the internship supervisor must submit the <xref href="employer-final-report-english%20(1).pdf" format="pdf" class="- topic/xref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/t-credit.dita" xtrc="xref:6;48:85">Supervisor Final
+                        Report Form</xref>.</cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>
