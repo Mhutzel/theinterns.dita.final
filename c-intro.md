@@ -1,8 +1,4 @@
 # Welcome to the World of Internships at Virginia Tech  
-
-
-
-
 ##Criteria  to Consider
 
 Remember the following when considering the internships you want to apply for:
