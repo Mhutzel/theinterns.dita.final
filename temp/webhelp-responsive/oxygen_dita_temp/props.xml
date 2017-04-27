@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><properties>
 	<property name="DSTAMP" value="20170427" />
 	<property name="TODAY" value="April 27 2017" />
-	<property name="TSTAMP" value="1006" />
+	<property name="TSTAMP" value="1038" />
 	<property name="ant.core.lib" value="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/lib/ant.jar" />
 	<property name="ant.file" value="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/build.xml" />
 	<property name="ant.file.Build Eclipse Contexts" value="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/org.dita.eclipsehelp/build_contexts.xml" />
@@ -108,7 +108,7 @@
 	<property name="css.processor.path.antenna-house" value="AHFCmd" />
 	<property name="css.processor.path.prince" value="prince" />
 	<property name="css.processor.type" value="prince" />
-	<property name="current.date" value="20170427100652933" />
+	<property name="current.date" value="20170427103832762" />
 	<property name="default.cascade" value="merge" />
 	<property name="default.language" value="en" />
 	<property name="dita.dir" value="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x" />
@@ -168,12 +168,12 @@
 	<property name="dita.plugin.org.oasis.xdita.dir" value="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/org.oasis.xdita" />
 	<property name="dita.temp.dir" value="/Users/Becky/Documents/theinterns.dita.final/temp/webhelp-responsive/oxygen_dita_temp" />
 	<property name="dita2wordToDita.buildfile.dir" value="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x" />
-	<property name="env.9.1.183;122;189;132;182;148;121;170;142;127;172;125;123;125;137;168;118;149;116;137;137;145;" value="9.1.149;109;158;104;155;101;102;149;96;100;151;110;110;93;300;136;426;216;229;97;" />
+	<property name="env.9.1.183;122;189;132;182;148;121;170;142;127;172;125;123;125;137;168;118;149;116;137;137;145;" value="9.1.149;109;158;104;155;101;103;158;96;100;154;107;109;93;300;136;426;216;229;97;" />
 	<property name="env.APP_ICON_1986" value="/Applications/Oxygen XML Editor/Oxygen XML Editor.app/Contents/Resources/app.icns" />
 	<property name="env.APP_NAME_1986" value="Oxygen XML Editor" />
 	<property name="env.Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.MSeaxdBGwd/Render" />
 	<property name="env.HOME" value="/Users/Becky" />
-	<property name="env.JAVA_MAIN_CLASS_14552" value="org.apache.tools.ant.launch.Launcher" />
+	<property name="env.JAVA_MAIN_CLASS_14966" value="org.apache.tools.ant.launch.Launcher" />
 	<property name="env.JAVA_MAIN_CLASS_1986" value="com.install4j.runtime.launcher.MacLauncher" />
 	<property name="env.LANG" value="en_US.UTF-8" />
 	<property name="env.LOGNAME" value="Becky" />
@@ -195,7 +195,7 @@
 	<property name="filter-stage" value="early" />
 	<property name="fop.home" value="/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/org.dita.pdf2.fop" />
 	<property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
-	<property name="gen.time" value="20170427100652" />
+	<property name="gen.time" value="20170427103832" />
 	<property name="generate-debug-attributes" value="true" />
 	<property name="generate.copy.outer" value="1" />
 	<property name="gopherProxySet" value="false" />

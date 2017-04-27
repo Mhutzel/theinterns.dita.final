@@ -1,8 +1,7 @@
-var keywords=[{w:"Benefits",p:["p0"]},{w:"of",p:["p0","p4"]},{w:"Internships",p:["p0","p2","p4","p5"]},{w:"Contact",p:["p1"]},{w:"Information",p:["p1"]},{w:"for",p:["p2","p9"]},{w:"Credit",p:["p2","p5","p9"]},{w:"Eligibility",p:["p3"]},{w:"Welcome",p:["p4"]},{w:"to",p:["p4","p6","p7","p8","p9","p10","p11"]},{w:"the",p:["p4"]},{w:"World",p:["p4"]},{w:"at",p:["p4"]},{w:"Virginia",p:["p4"]},{w:"Tech",p:["p4"]},{w:"Without",p:["p5"]},{w:"How",p:["p6","p7","p8","p9","p10","p11"]},{w:"Consult",p:["p6"]},{w:"your",p:["p6"]},{w:"Advisor",p:["p6"]},{w:"Apply",p:["p7","p9"]},{w:"Ensure",p:["p8"]},{w:"Compensation",p:["p8"]},{w:"an",p:["p9"]},{w:"internship",p:["p9"]},{w:"college",p:["p9"]},{w:"Refer",p:["p10"]},{w:"Career",p:["p10"]},{w:"Services",p:["p10"]},{w:"Begin",p:["p11"]}];
+var keywords=[{w:"Benefits",p:["p0"]},{w:"of",p:["p0","p4"]},{w:"Internships",p:["p0","p2","p4","p5"]},{w:"Contact",p:["p1"]},{w:"Information",p:["p1"]},{w:"for",p:["p2","p9"]},{w:"Credit",p:["p2","p5","p9"]},{w:"Eligibility",p:["p3"]},{w:"Welcome",p:["p4"]},{w:"to",p:["p4","p6","p7","p8","p9","p10","p11"]},{w:"the",p:["p4"]},{w:"World",p:["p4"]},{w:"at",p:["p4"]},{w:"Virginia",p:["p4"]},{w:"Tech",p:["p4"]},{w:"Without",p:["p5"]},{w:"How",p:["p6","p7","p8","p9","p10","p11"]},{w:"Consult",p:["p6"]},{w:"your",p:["p6"]},{w:"Advisor",p:["p6"]},{w:"Apply",p:["p7","p9"]},{w:"Ensure",p:["p8"]},{w:"Compensation",p:["p8"]},{w:"an",p:["p9"]},{w:"internship",p:["p9","p12"]},{w:"college",p:["p9"]},{w:"Refer",p:["p10"]},{w:"Career",p:["p10"]},{w:"Services",p:["p10"]},{w:"Begin",p:["p11"]},{w:"Resources",p:["p12"]}];
 var ph={};
 ph["p0"]=[0, 1, 2];
 ph["p1"]=[3, 4];
-ph["p11"]=[16, 9, 29];
 ph["p2"]=[2, 5, 6];
 ph["p3"]=[7];
 ph["p4"]=[8, 9, 10, 11, 1, 2, 12, 13, 14];
@@ -12,3 +11,5 @@ ph["p7"]=[16, 9, 20];
 ph["p8"]=[16, 9, 21, 22];
 ph["p9"]=[16, 9, 20, 5, 23, 24, 5, 25, 6];
 ph["p10"]=[16, 9, 26, 9, 27, 28];
+ph["p12"]=[24, 30];
+ph["p11"]=[16, 9, 29];

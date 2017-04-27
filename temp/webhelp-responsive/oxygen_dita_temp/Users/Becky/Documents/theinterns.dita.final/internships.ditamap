@@ -38,8 +38,7 @@
         <topicref href="c-nocredit.dita" class="- map/topicref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicref:10;40:43"/>
         <topicref href="t-compensation.dita" class="- map/topicref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicref:11;41:47"/>  
     </topichead>
-    
-    <topicref href="t-resources.dita" class="- map/topicref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicref:12;44:40"/>
-    <topicref href="c-contact.md" class="- map/topicref " format="dita" xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicref:13;45:53"><topicmeta class="- map/topicmeta " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicmeta:6;45:64"><shortdesc class="- map/shortdesc " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="shortdesc:5;45:75">If you have any questions about internships, contact information can be found here.</shortdesc></topicmeta></topicref> 
+    <topicref href="c-contact.md" class="- map/topicref " format="dita" xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicref:12;43:53"><topicmeta class="- map/topicmeta " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicmeta:6;43:64"><shortdesc class="- map/shortdesc " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="shortdesc:5;43:75">If you have any questions about internships, contact information can be found here.</shortdesc></topicmeta></topicref> 
+    <topicref href="t-resources(fixed).dita" class="- map/topicref " xtrf="file:/Users/Becky/Documents/theinterns.dita.final/internships.ditamap" xtrc="topicref:13;44:47"/>
     
 </map>
