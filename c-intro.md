@@ -1,5 +1,5 @@
 # Welcome to the World of Internships at Virginia Tech  
-<<<<<<< HEAD
+
 
 
 
