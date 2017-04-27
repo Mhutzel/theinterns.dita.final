@@ -21,11 +21,14 @@
                 <cmd>Find an internship that meets the aforementioned requirements.</cmd>
             </step>
             <step>
-                <cmd>Submit the completed Request form to Dr. Evia, the internship coordinator.</cmd>
+                <cmd>Submit the completed <xref href="request-to-intern-english.pdf" format="pdf"
+                        >Request to Intern Form</xref> to Dr. Evia, the internship
+                    coordinator.</cmd>
             </step>
             <step>
-                <cmd>Submit the Student-Employer Agreement Form by the first day of Summer Session
-                    I.</cmd>
+                <cmd>Submit the <xref href="employer-internship-agreement-english%20(2).pdf"
+                        format="pdf">Internship Agreement Form</xref>, signed by both the student
+                    and employer, by the first day of Summer Session I.</cmd>
             </step>
 
         </steps>
