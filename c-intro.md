@@ -3,7 +3,7 @@
 
 
 
-##Criteria  to Consider
+## Criteria  to Consider
 
 Remember the following when considering the internships you want to apply for:
 
@@ -12,7 +12,7 @@ Remember the following when considering the internships you want to apply for:
 * The internship should be supervised by someone who is willing to produce an ongoing progress report and final evaluation 
 
 
-##Internship Variety 
+## Internship Variety 
 
 The available internship opportunities are incredibly applicable to the vast interests of students. Take a look at the available opportunities based on your interests:
 
@@ -32,7 +32,7 @@ _Off-campus:_
 
 * The Montgomery County Commonwealth Attorney's Office
 
-##Availability
+## Availability
 
 Available internships vary semester to semester. Contact [Dr. Carlos Evia] (cevia@vt.edu) to inquire about what is currently being offered.
 
@@ -41,7 +41,7 @@ Available internships vary semester to semester. Contact [Dr. Carlos Evia] (cevi
 
 
 
-##Criteria  to Consider
+## Criteria  to Consider
 
 Remember the following when considering the internships you want to apply for:
 
@@ -50,7 +50,7 @@ Remember the following when considering the internships you want to apply for:
 * The internship should be supervised by someone who is willing to produce an ongoing progress report and final evaluation 
 
 
-##Internship Variety 
+## Internship Variety 
 
 The available internship opportunities are incredibly applicable to the vast interests of students. Take a look at the available opportunities based on your interests:
 
@@ -70,7 +70,7 @@ _Off-campus:_
 
 * The Montgomery County Commonwealth Attorney's Office
 
-##Availability
+## Availability
 
 Available internships vary semester to semester. Contact [Dr. Carlos Evia] (cevia@vt.edu) to inquire about what is currently being offered.
 
