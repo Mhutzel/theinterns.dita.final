@@ -2,15 +2,28 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-compensation">
     <title>How to Ensure Compensation</title>
-    <shortdesc/>
+    <shortdesc>Many employers pay their interns. Every major has a different internship pay scale standard based on the field and experience level. In addition to wages, many employers add benefits to their internship compensation packets such as relocation assistance like a housing stipend.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Be sure that you are being properly compensated by your employer.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Confirm the hourly wage with the Human Resource representative who conducted your on boarding</cmd>
+            </step>
+            <step>
+                <cmd>Decide if you would like to be paid with a check or direct deposit</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>If direct deposit is your preferred method for payment, provide your employer with your bank account information.</cmd>
+                        <info><note>Your employer will provide specific directions on how to enroll in direct deposit so that your paychecks will automatically be deposited into your bank account.</note></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Familiarize yourself with the pay period of your employer</cmd>
             </step>
         </steps>
+        <result><fig><image href="payday.jpg"></image></fig></result>
     </taskbody>
 </task>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="introduction" path="c-intro.html"/>
+   <appContext helpID="welcome_to_the_world_of_internships_at_virginia_tech"
+               path="c-intro.html"/>
    <appContext helpID="c-benefits" path="c-benefits.html"/>
    <appContext helpID="t-apply" path="t-apply.html"/>
    <appContext helpID="t-process" path="t-process.html"/>

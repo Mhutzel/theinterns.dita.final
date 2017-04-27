@@ -1,9 +1,13 @@
 # Welcome to the World of Internships at Virginia Tech  
+<<<<<<< HEAD
 
 
 
 
 ## Criteria  to Consider
+=======
+##Criteria  to Consider
+>>>>>>> origin/master
 
 Remember the following when considering the internships you want to apply for:
 
