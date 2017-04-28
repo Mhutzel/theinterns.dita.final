@@ -1,9 +1,9 @@
 fil = new Array();
-fil["0"]= "c-benefits.html@@@Benefits of Internships@@@Internships at Virginia Tech are beneficial because it gives students the opportunity to apply skills learned in the classroom toward practical workplace environments. Students can gain experience...";
+fil["0"]= "c-benefits.html@@@Benefits of Internships@@@Click here to learn more about the many benefits of internships...";
 fil["1"]= "c-contact.html@@@Contact Information@@@Feel free to contact the Department of English with any general questions you may have or for more information you might need. 323 Shanks Hall 181 Turner Street NW Blacksburg, VA 24061 Phone...";
 fil["2"]= "c-credit.html@@@Internships for Credit@@@Receiving college credit for an internship...";
 fil["3"]= "c-eligibility.html@@@Eligibility@@@Anyone is eligible for an internship, however internship eligibility varies by employer. Some employers offer internships to students who are freshmen, while others require a higher academic level...";
-fil["4"]= "c-intro.html@@@Welcome to the World of Internships at Virginia Tech@@@&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ======= origin/master Remember the following when considering the internships you want to apply for: The internship should include a considerable amount of time writing in a professional...";
+fil["4"]= "c-intro.html@@@Welcome to the World of Internships at Virginia Tech@@@Remember the following when considering the internships you want to apply for: The internship should include a considerable amount of time writing in a professional setting A supervisor should be...";
 fil["5"]= "c-nocredit.html@@@Internships Without Credit@@@This guide is for all Virginia Tech students interested in obtaining an internship for compensation, rather than credit. This includes undergraduates (freshman through seniors) and graduate students of all majors seeking internship experience during college...";
 fil["6"]= "t-advisor.html@@@How to Consult your Advisor@@@If you feel as though you need outside help, you can meet with an advisor to help guide the way. Your advisor can also help you choose internships that best fit your needs...";
 fil["7"]= "t-apply.html@@@How to Apply@@@Applying for an internship can be a daunting task, but there are steps you can take to ensure that you are fully prepared...";
