@@ -10,7 +10,7 @@
        <author>Becky Felter</author>
     </topicmeta>
     
-    <topicref href="c-intro.md" format="markdown"><topicmeta><shortdesc>Want to know about internships? Click here.</shortdesc></topicmeta></topicref> 
+    <topicref navtitle="Home" href="c-intro.md" format="markdown"><topicmeta><shortdesc>Want to know about internships? Click here.</shortdesc></topicmeta></topicref> 
     <topicref href="c-benefits.dita"/>
     
     <topichead navtitle="Application Process">
@@ -40,8 +40,7 @@
         <topicref href="c-nocredit.dita"/>
         <topicref href="t-compensation.dita"/>  
     </topichead>
-    
-    <topicref href="t-resources.dita"/>
     <topicref href="c-contact.md" format="markdown"><topicmeta><shortdesc>If you have any questions about internships, contact information can be found here.</shortdesc></topicmeta></topicref> 
+    <topicref href="t-resources(fixed).dita"/>
     
 </map>

@@ -41,8 +41,8 @@ _Off-campus:_
 Available internships vary semester to semester. Contact [Dr. Carlos Evia] (cevia@vt.edu) to inquire about what is currently being offered.
 
 
-=======
 
+<<<<<<< HEAD
 
 
 ## Criteria  to Consider
@@ -78,3 +78,5 @@ _Off-campus:_
 
 Available internships vary semester to semester. Contact [Dr. Carlos Evia] (cevia@vt.edu) to inquire about what is currently being offered.
 
+=======
+>>>>>>> origin/master
