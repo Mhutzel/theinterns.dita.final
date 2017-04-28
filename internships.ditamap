@@ -10,7 +10,7 @@
        <author>Becky Felter</author>
     </topicmeta>
     
-    <topicref href="c-intro.md" format="markdown"><topicmeta><shortdesc>Want to know about internships? Click here.</shortdesc></topicmeta></topicref> 
+    <topicref navtitle="Home" href="c-intro.md" format="markdown"><topicmeta><shortdesc>Want to know about internships? Click here.</shortdesc></topicmeta></topicref> 
     <topicref href="c-benefits.dita"/>
     
     <topichead navtitle="Application Process">
