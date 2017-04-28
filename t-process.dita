@@ -18,9 +18,6 @@
             <step>
                 <cmd>Apply to all the internships that you are interested in.</cmd>
             </step>
-            <step>
-                <cmd/>
-            </step>
         </steps>
     </taskbody>
 </task>
