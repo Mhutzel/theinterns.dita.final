@@ -41,5 +41,6 @@
         <topicref href="t-compensation.dita"/>  
     </topichead>
     <topicref href="c-contact.md" format="markdown"><topicmeta><shortdesc>If you have any questions about internships, contact information can be found here.</shortdesc></topicmeta></topicref>
+    <topicref href="t-resources.dita"/>
     
 </map>
