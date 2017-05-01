@@ -3,11 +3,10 @@
 <task id="t-apply">
     <title>How to Apply</title>
     <shortdesc> Applying for an internship can be a daunting task, but there are steps you can take
-        to ensure that you are fully prepared. <image href="814zcJl4KuL.jpg" width="400"
-            height="300" id="image_bf3_1ck_tz"/></shortdesc> 
+        to ensure that you are fully prepared. </shortdesc> 
     <taskbody>
         <context>
-            <p></p>
+            <p><image href="814zcJl4KuL.jpg" width="400" height="300" id="image_tt3_tck_tz"/></p>
         </context>
         <steps>
             <step>
