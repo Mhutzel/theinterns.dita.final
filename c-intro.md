@@ -1,5 +1,7 @@
 # Welcome!  
 
+![img.img.full.high-1.png](img.img.full.high-1.png)
+
 ##Criteria  to Consider
 
 
