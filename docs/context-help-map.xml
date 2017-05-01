@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="welcome_to_the_world_of_internships_at_virginia_tech"
-               path="c-intro.html"/>
+   <appContext helpID="welcome" path="c-intro.html"/>
    <appContext helpID="c-benefits" path="c-benefits.html"/>
    <appContext helpID="t-apply" path="t-apply.html"/>
    <appContext helpID="t-process" path="t-process.html"/>
@@ -13,5 +12,5 @@
    <appContext helpID="c-nocredit" path="c-nocredit.html"/>
    <appContext helpID="t-compensation" path="t-compensation.html"/>
    <appContext helpID="contact_information" path="c-contact.html"/>
-   <appContext helpID="concept_jpq_sdq_rz" path="t-resources(fixed).html"/>
+   <appContext helpID="t-resources" path="t-resources.html"/>
 </map>
