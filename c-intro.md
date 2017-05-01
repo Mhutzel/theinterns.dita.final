@@ -28,7 +28,7 @@ _Off-campus:_
 
 **Pre-Law**
 
-* The Montgomery County Commonwealth Attorney's Office
+* [The Montgomery County Commonwealth Attorney's Office](http://www.montgomerycountyva.gov/content/15987/16007/)
 
 ## Availability
 
