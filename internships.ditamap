@@ -9,14 +9,14 @@
        <author>Patrick McKiernan</author>
        <author>Becky Felter</author>
     </topicmeta>
-        <topicref href="c-intro.md" format="markdown"><topicmeta><shortdesc>Want to know about internships? Click here.</shortdesc></topicmeta>
+        <topicref href="c-intro.md" format="markdown"><topicmeta><shortdesc>Want to know about internships?</shortdesc></topicmeta>
     </topicref> 
      
     <topicref href="c-benefits.dita"/>
     
     <topichead navtitle="Application Process">
         <topicmeta>
-            <shortdesc>Need help with applying for an internship? Click here for all of the information you need.</shortdesc>
+            <shortdesc>Need help with applying for an internship?</shortdesc>
         </topicmeta>
         <topicref href="t-apply.dita"/>
         <topicref href="t-process.dita"/>
@@ -41,7 +41,7 @@
         <topicref href="c-nocredit.dita"/>
         <topicref href="t-compensation.dita"/>  
     </topichead>
-    <topicref href="c-contact.md" format="markdown"><topicmeta><shortdesc>If you have any questions about internships, contact information can be found here.</shortdesc></topicmeta></topicref>
+    <topicref href="c-contact.md" format="markdown"><topicmeta><shortdesc>Have any questions about internships? Contact information can be found here.</shortdesc></topicmeta></topicref>
     <topicref href="t-resources.dita"/>
     
 </map>
