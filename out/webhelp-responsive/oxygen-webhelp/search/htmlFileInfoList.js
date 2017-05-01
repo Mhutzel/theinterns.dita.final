@@ -12,4 +12,5 @@ fil["9"]= "t-credit.html@@@How to Apply for an Internship for College Credit@@@A
 fil["10"]= "t-cservices.html@@@How to Refer to Career Services@@@Career Services is an excellent resource to use to find internships that are perfect for you...";
 fil["11"]= "t-process.html@@@How to Begin@@@The first step to getting an internship is beginning the process. This page will show you exactly how to do so...";
 fil["12"]= "t-resources(fixed).html@@@Internship Resources@@@Internships are one of many ways to get experience during college, and there are many locations to find internships. While some outlets can be found through Virginia Tech, there are also many other locations that offer internship opportunities. There are many types of internship experiences, including field study, part-time, volunteering, shadowing and much more...";
+fil["13"]= "t-resources.html@@@Internship Resources@@@Click here to find multiple different internship resources...";
 var doStem = false;searchLoaded = true;
