@@ -15,8 +15,13 @@
                 <cmd>Decide if you would like to be paid with a check or direct deposit</cmd>
                 <substeps>
                     <substep>
-                        <cmd>If direct deposit is your preferred method for payment, provide your employer with your bank account information.</cmd>
-                        <info><note>Your employer will provide specific directions on how to enroll in direct deposit so that your paychecks will automatically be deposited into your bank account.</note></info>
+                        <cmd>If direct deposit is your preferred method for payment, provide your
+                            employer with your bank account information</cmd>
+                        <info>
+                            <note>Your employer will provide specific directions on how to enroll in
+                                direct deposit so that your paychecks will automatically be
+                                deposited into your bank account.</note>
+                        </info>
                     </substep>
                 </substeps>
             </step>

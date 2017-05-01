@@ -10,13 +10,13 @@
         </context>
         <steps>
             <step>
-                <cmd>Email your advisor and schedule a meeting. </cmd>
+                <cmd>Email your advisor and schedule a meeting</cmd>
             </step>
             <step>
-                <cmd>Find an internship that meets your needs. </cmd>
+                <cmd>Find an internship that meets your needs</cmd>
             </step>
             <step>
-                <cmd>Apply to all the internships that you are interested in.</cmd>
+                <cmd>Apply to all the internships that you are interested in</cmd>
             </step>
         </steps>
     </taskbody>

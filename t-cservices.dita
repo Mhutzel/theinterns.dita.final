@@ -5,19 +5,20 @@
     <shortdesc>Career Services is an excellent resource to use to find internships that are perfect for you.  </shortdesc>
     <taskbody>
         <context>
-            <p>Follow these steps to contact Career Sevices:</p>
+            <p>Follow these steps to contact Career Services:</p>
         </context>
         <steps>
             <step>
-                <cmd>Schedule an appointment, or walk-in. </cmd>
+                <cmd>Schedule an appointment, or walk-in</cmd>
                 <info>
-                    <note> Career services offers resume reviews, cover letter reviews, resources, and search tips.</note>
+                    <note> Career services offers resume reviews, cover letter reviews, resources,
+                        and search tips.</note>
                 </info>
             </step>
             <step>
-                <cmd>Meet with a Career Services employee.</cmd>
+                <cmd>Meet with a Career Services employee</cmd>
                 <info>
-                    <note> Don't forget to bring questions. </note>
+                    <note> Don't forget to bring questions</note>
                 </info>
             </step>
         </steps>

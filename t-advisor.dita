@@ -10,15 +10,17 @@
             <image href="dr.evia.png" width="300" height="400" id="image_gtf_dvf_qz"/></context>
         <steps>
             <step>
-                <cmd>Send an email to Carlos Evia the internship coordinator, if you are interested. The address is cevia@vt.edu</cmd>
+                <cmd>Send an email to Carlos Evia, the internship coordinator, at cevia@vt.edu if
+                    you are interested</cmd>
             </step>
             <step>
-                <cmd> Schedule a meeting with Dr. Evia at a time that is convenient for the both of you.</cmd>
+                <cmd> Schedule a meeting with Dr. Evia at a time that is convenient for the both of
+                    you</cmd>
             </step>
             <step>
                 <cmd> Bring with you and questions you have about internships</cmd>
                 <info>
-                    <note> Have some internship requirements in mind.</note>
+                    <note> Have some internship requirements in mind</note>
                 </info>
             </step>
         </steps>
