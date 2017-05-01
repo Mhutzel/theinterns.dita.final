@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="welcome" path="c-intro.html"/>
+   <appContext helpID="c-benefits" path="c-benefits.html"/>
+   <appContext helpID="t-apply" path="t-apply.html"/>
+   <appContext helpID="t-process" path="t-process.html"/>
+   <appContext helpID="t-advisor" path="t-advisor.html"/>
+   <appContext helpID="t-cservices" path="t-cservices.html"/>
+   <appContext helpID="c-eligibility" path="c-eligibility.html"/>
+   <appContext helpID="c-credit" path="c-credit.html"/>
+   <appContext helpID="t-credit" path="t-credit.html"/>
+   <appContext helpID="c-nocredit" path="c-nocredit.html"/>
+   <appContext helpID="t-compensation" path="t-compensation.html"/>
+   <appContext helpID="contact_information" path="c-contact.html"/>
+   <appContext helpID="t-resources" path="t-resources.html"/>
+</map>
