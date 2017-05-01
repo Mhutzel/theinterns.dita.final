@@ -9,11 +9,9 @@
        <author>Patrick McKiernan</author>
        <author>Becky Felter</author>
     </topicmeta>
-    
-    <topichead navtitle="Welcome">
         <topicref href="c-intro.md" format="markdown"><topicmeta><shortdesc>Want to know about internships? Click here.</shortdesc></topicmeta>
     </topicref> 
-    </topichead> 
+     
     <topicref href="c-benefits.dita"/>
     
     <topichead navtitle="Application Process">
