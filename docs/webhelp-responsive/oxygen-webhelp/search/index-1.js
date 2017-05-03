@@ -201,9 +201,8 @@ w["enroll"]="8*0*2i";
 w["ensure"]="7*10*-1$e,8*30*1$5";
 w["environment"]="0*0*1r";
 w["environments"]="0*0*r";
-w["ernships"]="12*0*6s";
-w["ernships.com"]="12*0*6r";
 w["errors"]="0*0*4t";
+w["es"]="12*0*32";
 w["evaluation"]="2*0*22,4*0*1g,9*0*1a";
 w["events"]="12*0*19";
 w["every"]="8*10*-1$b";
@@ -231,4 +230,5 @@ w["fit"]="6*10*-1$10";
 w["flawless"]="0*0*50";
 w["follow"]="7*0*25,10*0*i";
 w["following"]="0*0*16,4*10*-1$6,9*0*1i";
+w["forget"]="10*0*1e";
 
